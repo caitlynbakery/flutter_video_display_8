@@ -2,12 +2,23 @@
 
 This project displays videos from the network and asset folder using the [video_player](https://pub.dev/packages/video_player) Flutter plugin. It modifies the [example](https://pub.dev/packages/video_player/example) from `video_player`. 
 
-## Teaching Objects
+## Teaching Objectives
 
 Students following our tutorials will learn:
 
 * RICOH THETA video files are standard MP4 video files in a 2:1 aspect ratio and can be viewed with standard mobile app viewers
 * 360 navigation will require a special 360 viewer
+
+
+## iOS Screenshots
+
+This app works with iOS and Android platforms. Below, are screenshots of the app on an iPhone.
+
+![iphone](docs/iphone.jpg)
+
+![iphone](docs/iphone4.jpg)
+
+![iphone](docs/iphone3.jpg)
 
 ## Network Video
 
